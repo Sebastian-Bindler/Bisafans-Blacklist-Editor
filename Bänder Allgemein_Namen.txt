@@ -1,0 +1,44 @@
+Band des Alola-Champs
+Band des Galar-Champions
+Band des Hoenn-Champs
+Band des Kalos-Champs
+Band des Rekords
+Band des Wettbewerbsstars
+Battle-Royale-Meisterband
+Baum-Eliteband
+Baum-Meisterband
+Blaues Band
+Coolnessmeisterband
+Dienstagsband
+Donnerstagsband
+Festival Band
+Fleiß-Band
+Freitagsband
+Fußabdruck-Band
+Geburtstagsband
+Gruenes Band
+Kampfgedenkband 1
+Kampfgedenkband 2
+Kampfmeisterband
+Klassisches Band
+Klugheitsmeisterband
+Meisterkampfband
+Meisterrangband
+Mittwochsband
+Montagsband
+Premierband
+Profikampfband
+Putzigkeitsmeisterband
+Rotes Band
+Samstagsband
+Schoenheitsmeisterband
+Sonderband
+Sonntagsband
+Staerkemeisterband
+Trainingsband
+Turmmeisterband
+Veranstaltungsband
+Wettbewerbsgedenkband 1
+Wettbewerbsgedenkband 2
+Wunschband
+Zutraulichkeitsband
