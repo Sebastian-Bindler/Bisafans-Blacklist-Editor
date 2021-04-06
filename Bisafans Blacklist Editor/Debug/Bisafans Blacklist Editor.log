@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  BisafansBlacklistEditor.cpp
+  BisafansBlacklistEditorDlg.cpp
+  Pokemon.cpp
+  Ribbon.cpp
+  RibbonDlg.cpp
+  Code wird generiert...
+BisafansBlacklistEditor.rc(360): warning RC2182: duplicate dialog control ID 1169
+  
+  Bisafans Blacklist Editor.vcxproj -> E:\Windows Ordner\Desktop\Neuer Ordner\Bisafans Blacklist Editor\Debug\Bisafans Blacklist Editor.exe
